@@ -9,16 +9,5 @@ Autoregressive Integrated Moving Average (ARIMA)
 Tools:
 Python (Google Colab)
 
-Tahapan Analisis:
-1. Persiapan dan eksplorasi data.
-2. Analisis pola data runtun waktu.
-3. Pengujian stasioneritas data.
-4. Identifikasi dan penentuan parameter model ARIMA.
-5. Estimasi model.
-6.Evaluasi model dan peramalan.
-
-Hasil Analisis:
-Hasil analisis dan peramalan disajikan dalam notebook yang tersedia pada repository ini.
-
 Konteks Proyek:
 Proyek akademik – Mata Kuliah Teori Peramalan Statistika.
